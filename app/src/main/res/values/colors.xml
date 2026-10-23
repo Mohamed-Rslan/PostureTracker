@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="accent">#FF4081</color>
+    <color name="background_dark">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="divider">#1FFFFFFF</color>
+    <color name="good_posture_green">#4CAF50</color>
+    <color name="poor_posture_red">#F44336</color>
+    <color name="alert_overlay">#CC2196F3</color>
+    <!-- Basic Palette (Examples - Adjust Hex codes as needed) -->
+    <color name="black">#FF000000</color>
+    <!-- Semantic Colors -->
+    <color name="posture_alert_background">#B00020</color> <!-- Example: Material Design Error Red -->
+    <color name="posture_alert_text_color">@color/white</color> <!-- Reuse basic white -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- You might define theme colors here too, although they are often -->
+    <!-- referenced directly in themes.xml -->
+    <color name="primary_color">#FF6200EE</color> <!-- Example Purple -->
+    <color name="primary_dark_color">#FF3700B3</color> <!-- Example Dark Purple -->
+    <color name="accent_color">#FF03DAC5</color> <!-- Example Teal -->
+
+    <!-- Optional: Define a specific divider color if you don't -->
+    <!-- want to rely solely on the theme attribute -->
+    <color name="divider_color">#1F000000</color> <!-- Example: 12% Black -->
+
+</resources>

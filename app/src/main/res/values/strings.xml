@@ -1,0 +1,10 @@
+﻿<resources>
+    <string name="app_name">PostureTracker</string>
+    <string name="good_posture">Good Posture</string>
+    <string name="poor_posture">Poor Posture</string>
+    <string name="fix_posture">Fix Your Posture!</string>
+    <string name="good_posture_streak">Good Posture Streak</string>
+    <string name="posture_alerts">Posture Alerts Today</string>
+    <string name="camera_permission_required">Camera permission is required</string>
+    <string name="failed_to_start_camera">Failed to start camera</string>
+</resources>

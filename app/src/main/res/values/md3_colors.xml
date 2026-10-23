@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design 3 color palette -->
+    <color name="md_theme_primary">#006C51</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#82F8D3</color>
+    <color name="md_theme_onPrimaryContainer">#002115</color>
+    
+    <color name="md_theme_secondary">#4B635A</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#CEE9DC</color>
+    <color name="md_theme_onSecondaryContainer">#082018</color>
+    
+    <color name="md_theme_tertiary">#3F6375</color>
+    <color name="md_theme_onTertiary">#FFFFFF</color>
+    <color name="md_theme_tertiaryContainer">#C2E8FD</color>
+    <color name="md_theme_onTertiaryContainer">#001F2A</color>
+    
+    <color name="md_theme_error">#BA1A1A</color>
+    <color name="md_theme_errorContainer">#FFDAD6</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_onErrorContainer">#410002</color>
+    
+    <color name="md_theme_background">#FBFDF9</color>
+    <color name="md_theme_onBackground">#191C1A</color>
+    <color name="md_theme_surface">#FBFDF9</color>
+    <color name="md_theme_onSurface">#191C1A</color>
+    <color name="md_theme_surfaceVariant">#DCE5DD</color>
+    <color name="md_theme_onSurfaceVariant">#404943</color>
+    <color name="md_theme_outline">#707973</color>
+    <color name="md_theme_inverseOnSurface">#EFF1ED</color>
+    <color name="md_theme_inverseSurface">#2E312F</color>
+    
+    <!-- Charts color palette -->
+    <color name="good_posture">#4CAF50</color>
+    <color name="bad_posture">#F44336</color>
+    <color name="neutral_posture">#9E9E9E</color>
+    
+    <!-- Existing app colors (keeping for backward compatibility) -->
+</resources>
