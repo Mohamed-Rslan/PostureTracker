@@ -190,11 +190,3 @@ No account creation, network access, or third-party analytics are required or im
 
 ---
 
-## 👥 Development Team (Team 4)
-
-- **Mohamed Amin Werdany Raslan** ([@Mohamed-Rslan](https://github.com/Mohamed-Rslan))
-- **Adham Mohamed Helmy Sadek**
-- **Ahmed Walid Mohamed Awadallah**
-- **Ahmed Nabil Ahmed Emara**
-- **Mohamed Adel Moawad Azzam**
-- **Mohamed Tamer Hamed Alawy**
